@@ -19,7 +19,7 @@ JavaScript(ES5/ES6), HTML5, CSS3, React, SQL, PostgreSQL, Express.js, Node.js, n
 
 ![download](https://user-images.githubusercontent.com/75149451/115604700-84b23e00-a296-11eb-9edb-d8d4200295a1.png)
 ![55263234-8b903300-522d-11e9-9926-44e4b3c17e0a](https://user-images.githubusercontent.com/75149451/115605134-ff7b5900-a296-11eb-828e-3c5db44dfbf6.png)
-![29165](https://user-images.githubusercontent.com/75149451/115605200-18840a00-a297-11eb-958e-8913a96add0f.png)
+
 ![919825](https://user-images.githubusercontent.com/75149451/115605385-4c5f2f80-a297-11eb-8133-84879b8f0a0a.png)
 ![postgresql](https://user-images.githubusercontent.com/75149451/115604967-d5c23200-a296-11eb-952d-77469b85f0a4.png)
 ![express-facebook-share](https://user-images.githubusercontent.com/75149451/115605014-e377b780-a296-11eb-82ce-44041749a500.png)
@@ -31,6 +31,7 @@ JavaScript(ES5/ES6), HTML5, CSS3, React, SQL, PostgreSQL, Express.js, Node.js, n
 
 
 
+![68-688026_html-5-icon-html5-css3-logo-png](https://user-images.githubusercontent.com/75149451/115605604-90eacb00-a297-11eb-840a-0e30961be5d1.png)
 
 ### Applications
 
