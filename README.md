@@ -16,7 +16,6 @@ I am dedicated to continuing to learn more and more about development, and I am 
 
 JavaScript(ES5/ES6), HTML5, CSS3, React, SQL, PostgreSQL, Express.js, Node.js, npm, webpack, Babel
 
-![download (1)](https://user-images.githubusercontent.com/75149451/115612874-98fb3880-a2a0-11eb-98ae-7d1bf0bfdcef.png)
 
 
 
@@ -43,6 +42,7 @@ Here is the Source Code: https://github.com/FrankBishop/Final-Project
 ![iconfinder_badge-html-5_317755 (1)](https://user-images.githubusercontent.com/75149451/115613033-c5af5000-a2a0-11eb-8a5b-f65858d1675f.png)
 
 ### Contact Me 📫
+![iconfinder_121-css3_4202020 (1)](https://user-images.githubusercontent.com/75149451/115613247-04dda100-a2a1-11eb-985e-dbb1d02b69fd.png)
 
 I would love if you reached out to me, you can find my LinkedIn profile here, https://www.linkedin.com/in/frank-bishop/
 
