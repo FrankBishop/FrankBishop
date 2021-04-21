@@ -17,14 +17,23 @@ I am dedicated to continuing to learn more and more about development, and I am 
 JavaScript(ES5/ES6)
 
 HTML5
+
 CSS3
+
 React
+
 SQL
+
 PostgreSQL
+
 Express.js
+
 Node.js
+
 npm
+
 webpack
+
 Babel
 
 
