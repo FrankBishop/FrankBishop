@@ -14,9 +14,9 @@ I am dedicated to continuing to learn more and more about development, and I am 
 
 ### Skills
 
-JavaScript(ES5/ES6) <img src="https://user-images.githubusercontent.com/75149451/115597854-9a236a00-a28e-11eb-9e85-dc3e15aff2f2.png" width="50">
+JavaScript(ES5/ES6) <img src="https://user-images.githubusercontent.com/75149451/115597854-9a236a00-a28e-11eb-9e85-dc3e15aff2f2.png" width="50" height="50">
 
-HTML5 <img src="https://mpng.subpng.com/20180802/tpl/kisspng-logo-html5-brand-clip-art-%E6%9D%89-%E5%B1%B1-%E8%89%AF-%E9%9B%84-5b62be01b565d5.334247781533197825743.jpg" width="50">
+HTML5 <img src="https://mpng.subpng.com/20180802/tpl/kisspng-logo-html5-brand-clip-art-%E6%9D%89-%E5%B1%B1-%E8%89%AF-%E9%9B%84-5b62be01b565d5.334247781533197825743.jpg" width="50" height="50">
 
 CSS3
 
