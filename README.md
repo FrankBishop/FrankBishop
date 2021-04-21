@@ -14,9 +14,9 @@ I am dedicated to continuing to learn more and more about development, and I am 
 
 ### Skills
 
-JavaScript(ES5/ES6) <img src="https://user-images.githubusercontent.com/75149451/115597854-9a236a00-a28e-11eb-9e85-dc3e15aff2f2.png" width="50px">
+JavaScript(ES5/ES6) 
 
-HTML5 <img src="https://mpng.subpng.com/20180802/tpl/kisspng-logo-html5-brand-clip-art-%E6%9D%89-%E5%B1%B1-%E8%89%AF-%E9%9B%84-5b62be01b565d5.334247781533197825743.jpg" width="50px">
+HTML5 
 
 CSS3
 
@@ -38,9 +38,21 @@ Babel
 
 ### Applications
 
+The Games Deal Finder - A JavaScript application that users can use to find the lowest price on games with.  
 
+Here is a Live Demo: https://frankbishop.github.io/The-Games-Deal-Finder/
 
+Here is the source code: https://github.com/FrankBishop/The-Games-Deal-Finder
 
+![games deal](https://user-images.githubusercontent.com/75149451/115602127-6f87e000-a293-11eb-8203-b77ffc93c4ee.gif)
+
+Tv Diary - A full stack React application for users that want to track what shows they watch
+
+Here is a Live Demo: https://tv-diary.herokuapp.com/
+
+Here is the Source Code: https://github.com/FrankBishop/Final-Project
+
+![TvDiary ](https://user-images.githubusercontent.com/75149451/115603028-8418a800-a294-11eb-8086-91116a4318e3.gif)
 
 <!--
 **FrankBishop/FrankBishop** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
