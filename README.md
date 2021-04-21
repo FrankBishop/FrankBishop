@@ -18,10 +18,16 @@ JavaScript(ES5/ES6), HTML5, CSS3, React, SQL, PostgreSQL, Express.js, Node.js, n
 
 
 ![download](https://user-images.githubusercontent.com/75149451/115604700-84b23e00-a296-11eb-9edb-d8d4200295a1.png)
-
-![download (1)](https://user-images.githubusercontent.com/75149451/115604786-9eec1c00-a296-11eb-8c9b-4737d4765264.png)
+![55263234-8b903300-522d-11e9-9926-44e4b3c17e0a](https://user-images.githubusercontent.com/75149451/115605134-ff7b5900-a296-11eb-828e-3c5db44dfbf6.png)
+![29165](https://user-images.githubusercontent.com/75149451/115605200-18840a00-a297-11eb-958e-8913a96add0f.png)
+![919825](https://user-images.githubusercontent.com/75149451/115605385-4c5f2f80-a297-11eb-8133-84879b8f0a0a.png)
 ![postgresql](https://user-images.githubusercontent.com/75149451/115604967-d5c23200-a296-11eb-952d-77469b85f0a4.png)
 ![express-facebook-share](https://user-images.githubusercontent.com/75149451/115605014-e377b780-a296-11eb-82ce-44041749a500.png)
+![download (1)](https://user-images.githubusercontent.com/75149451/115604786-9eec1c00-a296-11eb-8c9b-4737d4765264.png)
+![logo-on-white-bg](https://user-images.githubusercontent.com/75149451/115605167-0ace8480-a297-11eb-9203-054a1a29e0f0.png)
+![55263234-8b903300-522d-11e9-9926-44e4b3c17e0a](https://user-images.githubusercontent.com/75149451/115605278-2e91ca80-a297-11eb-9db3-fb980af66811.png)
+
+
 
 
 
