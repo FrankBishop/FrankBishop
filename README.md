@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-### About Me 
+### About Me :simple_smile:
 
 Hi, I'm Frank Bishop. I am a Full Stack Web Developer.
 
@@ -12,7 +12,7 @@ When I started, all I could do is render some HTML on a page, but I have gone fr
 
 I am dedicated to continuing to learn more and more about development, and I am excited about what I might build in the future.
 
-### Skills
+### Skills :open_file_folder:
 
 JavaScript(ES5/ES6), HTML5, CSS3, React, SQL, PostgreSQL, Express.js, Node.js, npm, webpack, Babel
 
@@ -24,7 +24,7 @@ JavaScript(ES5/ES6), HTML5, CSS3, React, SQL, PostgreSQL, Express.js, Node.js, n
 
 
 
-### Applications
+### Applications :computer:
 
 The Games Deal Finder - A JavaScript application that users can use to find the lowest price on games with.  
 
@@ -42,7 +42,7 @@ Here is the Source Code: https://github.com/FrankBishop/Final-Project
 
 ![TvDiary ](https://user-images.githubusercontent.com/75149451/115603028-8418a800-a294-11eb-8086-91116a4318e3.gif)
 
-### Contact Me
+### Contact Me 📫
 
 I would love if you reached out to me, you can find my LinkedIn profile here, https://www.linkedin.com/in/frank-bishop/
 
