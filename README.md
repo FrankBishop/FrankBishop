@@ -14,27 +14,11 @@ I am dedicated to continuing to learn more and more about development, and I am 
 
 ### Skills
 
-JavaScript(ES5/ES6) 
+JavaScript(ES5/ES6), HTML5, CSS3, React, SQL, PostgreSQL, Express.js, Node.js, npm, webpack, Babel
 
-HTML5 
 
-CSS3
+![download](https://user-images.githubusercontent.com/75149451/115604700-84b23e00-a296-11eb-9edb-d8d4200295a1.png)
 
-React
-
-SQL
-
-PostgreSQL
-
-Express.js
-
-Node.js
-
-npm
-
-webpack
-
-Babel
 
 ### Applications
 
