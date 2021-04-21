@@ -16,9 +16,7 @@ I am dedicated to continuing to learn more and more about development, and I am 
 
 JavaScript(ES5/ES6), HTML5, CSS3, React, SQL, PostgreSQL, Express.js, Node.js, npm, webpack, Babel
 
-<i class='icon-tech-javascript'></i>
-<i class='icon-tech-react'></i>
-<i class='icon-tech-python'></i>
+![download (1)](https://user-images.githubusercontent.com/75149451/115612874-98fb3880-a2a0-11eb-98ae-7d1bf0bfdcef.png)
 
 
 
@@ -40,6 +38,9 @@ Here is a Live Demo: https://tv-diary.herokuapp.com/
 Here is the Source Code: https://github.com/FrankBishop/Final-Project
 
 ![TvDiary ](https://user-images.githubusercontent.com/75149451/115603028-8418a800-a294-11eb-8086-91116a4318e3.gif)
+![iconfinder_badge-html-5_317755](https://user-images.githubusercontent.com/75149451/115612947-ae706280-a2a0-11eb-9981-ffa3491f3608.png)
+![iconfinder_badge-html-5_317755](https://user-images.githubusercontent.com/75149451/115612983-b7613400-a2a0-11eb-8880-ea73d13d2f13.png)
+![iconfinder_badge-html-5_317755 (1)](https://user-images.githubusercontent.com/75149451/115613033-c5af5000-a2a0-11eb-8a5b-f65858d1675f.png)
 
 ### Contact Me 📫
 
