@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-### About Me :simple_smile:
+### About Me :smile:
 
 Hi, I'm Frank Bishop. I am a Full Stack Web Developer.
 
