@@ -14,7 +14,7 @@ I am dedicated to continuing to learn more and more about development, and I am 
 
 ### Skills
 
-JavaScript(ES5/ES6)
+JavaScript(ES5/ES6) ![unnamed](https://user-images.githubusercontent.com/75149451/115597854-9a236a00-a28e-11eb-9e85-dc3e15aff2f2.png)
 
 HTML5
 
@@ -35,6 +35,9 @@ npm
 webpack
 
 Babel
+
+### Applications
+
 
 
 
