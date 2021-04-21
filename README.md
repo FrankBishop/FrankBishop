@@ -54,6 +54,15 @@ Here is the Source Code: https://github.com/FrankBishop/Final-Project
 
 ![TvDiary ](https://user-images.githubusercontent.com/75149451/115603028-8418a800-a294-11eb-8086-91116a4318e3.gif)
 
+### Contact Me
+
+I would love if you reached out to me, you can find my LinkedIn profile here, https://www.linkedin.com/in/frank-bishop/
+
+Here is my resume:
+
+[Frank_Bishop Revised Resume.pdf](https://github.com/FrankBishop/FrankBishop/files/6353128/Frank_Bishop.Revised.Resume.pdf)
+
+
 <!--
 **FrankBishop/FrankBishop** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
