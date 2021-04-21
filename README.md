@@ -18,7 +18,7 @@ JavaScript(ES5/ES6), HTML5, CSS3, React, SQL, PostgreSQL, Express.js, Node.js, n
 
 <i class='icon-tech-javascript'></i>
 <i class='icon-tech-react'></i>
-
+<i class='icon-tech-python'></i>
 
 
 
