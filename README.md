@@ -15,6 +15,7 @@ I am dedicated to continuing to learn more and more about development, and I am 
 ### Skills
 
 JavaScript(ES5/ES6)
+
 HTML5
 CSS3
 React
