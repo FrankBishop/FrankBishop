@@ -37,12 +37,8 @@ Here is a Live Demo: https://tv-diary.herokuapp.com/
 Here is the Source Code: https://github.com/FrankBishop/Final-Project
 
 ![TvDiary ](https://user-images.githubusercontent.com/75149451/115603028-8418a800-a294-11eb-8086-91116a4318e3.gif)
-![iconfinder_badge-html-5_317755](https://user-images.githubusercontent.com/75149451/115612947-ae706280-a2a0-11eb-9981-ffa3491f3608.png)
-![iconfinder_badge-html-5_317755](https://user-images.githubusercontent.com/75149451/115612983-b7613400-a2a0-11eb-8880-ea73d13d2f13.png)
-![iconfinder_badge-html-5_317755 (1)](https://user-images.githubusercontent.com/75149451/115613033-c5af5000-a2a0-11eb-8a5b-f65858d1675f.png)
 
 ### Contact Me 📫
-![iconfinder_121-css3_4202020 (1)](https://user-images.githubusercontent.com/75149451/115613247-04dda100-a2a1-11eb-985e-dbb1d02b69fd.png)
 
 I would love if you reached out to me, you can find my LinkedIn profile here, https://www.linkedin.com/in/frank-bishop/
 
