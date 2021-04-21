@@ -16,9 +16,8 @@ I am dedicated to continuing to learn more and more about development, and I am 
 
 JavaScript(ES5/ES6), HTML5, CSS3, React, SQL, PostgreSQL, Express.js, Node.js, npm, webpack, Babel
 
-
-![download](https://user-images.githubusercontent.com/75149451/115604700-84b23e00-a296-11eb-9edb-d8d4200295a1.png)
-![download (1)](https://user-images.githubusercontent.com/75149451/115605963-ff2f8d80-a297-11eb-871b-0136ec755e2b.png)
+<i class='icon-tech-javascript'></i>
+<i class='icon-tech-react'></i>
 
 
 
